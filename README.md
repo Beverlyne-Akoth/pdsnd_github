@@ -14,3 +14,6 @@ bikeshare.py
 
 ### Credits
 https://learn.udacity.com/nanodegrees/
+
+### Additional Resources
+https://community.udacity.com/
