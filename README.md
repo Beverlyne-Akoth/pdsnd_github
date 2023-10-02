@@ -6,11 +6,20 @@
 ### Project Title
 Investigate US Bikeshare Data
 
-### Description
-Describe what your project is about and what it does
+### Project Description
+This project explores a US bikeshare company data using python and its libraries to obtain insightful information from the data.
+
+### Installation Guidelines
+To configure and run this project locally in your machine, kindly install the following softwares and libraries
+*A text editor, I recommend that you use Vscode which can be downloaded [here](https://code.visualstudio.com/download)
+*Python
 
 ### Files used
 bikeshare.py
+The following are the data files used in the project
+*chicago.csv
+*new_york_city.csv
+*washington.csv
 
 ### Credits
 https://learn.udacity.com/nanodegrees/
